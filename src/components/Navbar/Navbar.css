@@ -18,10 +18,10 @@
   font-weight: bold;
 }
 .n-right {
-  flex: 1;
+  flex: -3;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
   font-weight: 400;
 }
 
